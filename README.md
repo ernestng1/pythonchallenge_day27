@@ -2,6 +2,7 @@
 <p>For the Day 27 challenge, I created a GUI Program that converts miles (input from users) to kilometer. This is a culmination of the teaching points that were shared in the tutorial, including the following but not limited to</p>
 <ul>
   <li>tkinter module, *args, *kwargs</li>
+  <li>different layouts: pack, place and grid</li>
   <li>functions</li>
 </ul>
 
